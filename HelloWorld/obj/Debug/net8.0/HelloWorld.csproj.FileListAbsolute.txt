@@ -1,0 +1,14 @@
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Ravis\Documents\School\CSE\CSE 310\HELLO WORLD\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
